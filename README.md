@@ -1,5 +1,8 @@
 ## nonebot-plugin-imageutils
 
+便于更新[Hoshino版插件](https://github.com/chingkingm/Hoshinobot-plugin-petpet)
+
+以下为原README
 
 ### 功能
 
